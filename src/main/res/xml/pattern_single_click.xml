@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pattern name="single_click">
+    <click/>
+    <break time="1000ms"/>
+</Pattern>
